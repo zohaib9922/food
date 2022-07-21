@@ -1,0 +1,1520 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Pet Sitters",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6-pro.jpg",
+            "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2-pro.jpg",
+            "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2-pro.jpg",
+            "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team Members",
+            "screenshot": "screenshots\/team-members.jpg",
+            "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pet Sitter Jobs",
+            "screenshot": "screenshots\/pet-sitter-jobs.jpg",
+            "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pet Competition Event",
+            "screenshot": "screenshots\/pet-competition-event.jpg",
+            "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking A Sitter",
+            "screenshot": "screenshots\/booking-a-sitter-pro.jpg",
+            "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-0781910b151f6949c57ca1bb7ec01c10.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-f79993f7209ca6150a9688739261edba.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "velizar-ivanov-540528-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/velizar-ivanov-540528-unsplash-500x357.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 286956,
+            "dimensions": [
+                1920,
+                1372
+            ]
+        },
+        {
+            "filename": "timothy-meinberg-532759-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/timothy-meinberg-532759-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 281006,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pete-bellis-115355-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/pete-bellis-115355-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 473251,
+            "dimensions": [
+                1920,
+                1277
+            ]
+        },
+        {
+            "filename": "rawpixel-743116-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/rawpixel-743116-unsplash-500x339.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 339036,
+            "dimensions": [
+                1920,
+                1300
+            ]
+        },
+        {
+            "filename": "nikita-kuvshinov-596389-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/nikita-kuvshinov-596389-unsplash-500x293.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 205559,
+            "dimensions": [
+                1920,
+                1124
+            ]
+        },
+        {
+            "filename": "pete-bellis-481283-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/pete-bellis-481283-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                }
+            ],
+            "filesize": 611945,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "grizzly-hn-1052253-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/grizzly-hn-1052253-unsplash-500x575.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 258704,
+            "dimensions": [
+                1391,
+                1600
+            ]
+        },
+        {
+            "filename": "chris-benson-709433-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/chris-benson-709433-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                }
+            ],
+            "filesize": 426575,
+            "dimensions": [
+                1920,
+                1282
+            ]
+        },
+        {
+            "filename": "stephanie-liverani-160111-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/stephanie-liverani-160111-unsplash-500x749.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 380024,
+            "dimensions": [
+                1068,
+                1600
+            ]
+        },
+        {
+            "filename": "anton-darius-thesollers-590562-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/anton-darius-thesollers-590562-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-4014a2c4b171e7337473e62dc126607e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 188540,
+            "dimensions": [
+                1067,
+                1600
+            ]
+        },
+        {
+            "filename": "pete-bellis-419451-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/pete-bellis-419451-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 253302,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "matt-nelson-259365-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/matt-nelson-259365-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                },
+                {
+                    "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+                    "name": "Booking A Sitter"
+                }
+            ],
+            "filesize": 604133,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "pete-bellis-488071-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/pete-bellis-488071-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 274295,
+            "dimensions": [
+                1067,
+                1600
+            ]
+        },
+        {
+            "filename": "pete-bellis-217830-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/pete-bellis-217830-unsplash-500x752.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                },
+                {
+                    "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+                    "name": "Booking A Sitter"
+                },
+                {
+                    "source": "templates\/contact-us-0781910b151f6949c57ca1bb7ec01c10.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 303255,
+            "dimensions": [
+                1064,
+                1600
+            ]
+        },
+        {
+            "filename": "autri-taheri-528246-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/autri-taheri-528246-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-e7b8f4c2920616452696703a420259bb.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                },
+                {
+                    "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+                    "name": "Booking A Sitter"
+                },
+                {
+                    "source": "templates\/contact-us-0781910b151f6949c57ca1bb7ec01c10.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 250533,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "john-price-340033-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/john-price-340033-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-1204874a277449ef56840edb52cae24a.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+                    "name": "Booking A Sitter"
+                }
+            ],
+            "filesize": 197783,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "alain-d-alche-726052-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/alain-d-alche-726052-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 366794,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "anton-darius-thesollers-298801-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/anton-darius-thesollers-298801-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 263608,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "crew-56836-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/crew-56836-unsplash-500x423.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 421885,
+            "dimensions": [
+                1890,
+                1600
+            ]
+        },
+        {
+            "filename": "for-chen-654769-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/for-chen-654769-unsplash-500x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 286848,
+            "dimensions": [
+                1604,
+                1600
+            ]
+        },
+        {
+            "filename": "alan-king-380383-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/alan-king-380383-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                }
+            ],
+            "filesize": 247574,
+            "dimensions": [
+                1067,
+                1600
+            ]
+        },
+        {
+            "filename": "charles-deluvio-547196-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/charles-deluvio-547196-unsplash-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                }
+            ],
+            "filesize": 290292,
+            "dimensions": [
+                1200,
+                1600
+            ]
+        },
+        {
+            "filename": "avi-richards-443070-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/avi-richards-443070-unsplash-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 320209,
+            "dimensions": [
+                1200,
+                1600
+            ]
+        },
+        {
+            "filename": "omar-roque-1093489-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/omar-roque-1093489-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 390441,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "charles-deluvio-550068-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/charles-deluvio-550068-unsplash-500x696.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                }
+            ],
+            "filesize": 338061,
+            "dimensions": [
+                1149,
+                1600
+            ]
+        },
+        {
+            "filename": "charles-deluvio-542217-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/charles-deluvio-542217-unsplash-500x665.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c9f5aacd39a2946aef4c34ae96e288c7.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/popup-f79993f7209ca6150a9688739261edba.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 326219,
+            "dimensions": [
+                1203,
+                1600
+            ]
+        },
+        {
+            "filename": "frank-lam-652777-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/frank-lam-652777-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 164987,
+            "dimensions": [
+                1920,
+                1278
+            ]
+        },
+        {
+            "filename": "alvan-nee-1061137-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/alvan-nee-1061137-unsplash-500x738.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 226113,
+            "dimensions": [
+                1084,
+                1600
+            ]
+        },
+        {
+            "filename": "john-fornander-729190-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/john-fornander-729190-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                }
+            ],
+            "filesize": 348632,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "ryan-walton-520633-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/ryan-walton-520633-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-71e5d716261817ea183131116bd599dc.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 169827,
+            "dimensions": [
+                1067,
+                1600
+            ]
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/transparent-500x375.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 4660,
+            "dimensions": [
+                640,
+                480
+            ]
+        },
+        {
+            "filename": "erda-estremera-582075-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/erda-estremera-582075-unsplash-500x650.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 103007,
+            "dimensions": [
+                1231,
+                1600
+            ]
+        },
+        {
+            "filename": "erica-magugliani-446666-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/erica-magugliani-446666-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 216006,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "eric-ward-610868-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/eric-ward-610868-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-5d5f0c32237f0c94dff7319659324441.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 291381,
+            "dimensions": [
+                1920,
+                1282
+            ]
+        },
+        {
+            "filename": "terry-jaskiw-382692-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/terry-jaskiw-382692-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 391988,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "roberto-nickson-g-446008-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/roberto-nickson-g-446008-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 363125,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "freestocks-org-119823-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/freestocks-org-119823-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 269730,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "camylla-battani-781113-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/camylla-battani-781113-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 324715,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "marvin-meyer-188676-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/marvin-meyer-188676-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                }
+            ],
+            "filesize": 447741,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "mikhail-vasilyev-34524-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/mikhail-vasilyev-34524-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 216002,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "valerie-elash-690664-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/valerie-elash-690664-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 540603,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "erda-estremera-581452-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/erda-estremera-581452-unsplash-500x332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 227907,
+            "dimensions": [
+                1920,
+                1275
+            ]
+        },
+        {
+            "filename": "mel-elias-246141-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/mel-elias-246141-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-73b8d176865577117b696222117c312b.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 391281,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "alicia-jones-421542-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/alicia-jones-421542-unsplash-500x336.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 270193,
+            "dimensions": [
+                1920,
+                1289
+            ]
+        },
+        {
+            "filename": "leonides-ruvalcabar-738807-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/leonides-ruvalcabar-738807-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1-1b178d261f848586d13484046982db70.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 339050,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "patrick-hendry-406636-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/patrick-hendry-406636-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 422029,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "paul-hanaoka-273388-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/paul-hanaoka-273388-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-cf944aa87b64bade9dd02821a3721707.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 254736,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "nicole-honeywill-627835-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/nicole-honeywill-627835-unsplash-500x666.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-2-98d86c180c4ddddf05f36ca83356afcf.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 267105,
+            "dimensions": [
+                1201,
+                1600
+            ]
+        },
+        {
+            "filename": "anthony-tran-576136-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/anthony-tran-576136-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-members-ef7190a189b8853bf620380862b8bdd2.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 311736,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "ben-chin-595706-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/ben-chin-595706-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pet-sitter-jobs-f5942dabe2ed69a0df456bdd23e12b40.json",
+                    "name": "Pet Sitter Jobs"
+                }
+            ],
+            "filesize": 390981,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "jamie-street-804224-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/jamie-street-804224-unsplash-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pet-competition-event-eb70a44bb80200691453131542ff6726.json",
+                    "name": "Pet Competition Event"
+                }
+            ],
+            "filesize": 271716,
+            "dimensions": [
+                1200,
+                1600
+            ]
+        },
+        {
+            "filename": "roberto-nickson-g-661462-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/roberto-nickson-g-661462-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking-a-sitter-f12611025a29a013cbeb4d0f8de00c0b.json",
+                    "name": "Booking A Sitter"
+                }
+            ],
+            "filesize": 274816,
+            "dimensions": [
+                1067,
+                1600
+            ]
+        },
+        {
+            "filename": "luisa-schetinger-1096891-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-112\/wp-content\/uploads\/sites\/115\/2018\/11\/luisa-schetinger-1096891-unsplash-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us-0781910b151f6949c57ca1bb7ec01c10.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 586288,
+            "dimensions": [
+                1920,
+                1272
+            ]
+        }
+    ]
+}
